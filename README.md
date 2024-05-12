@@ -5,7 +5,7 @@
 </p>
 <br>
 
-- Resposividade.
+- Responsividade.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
